@@ -11,16 +11,18 @@ Exercises:
     - Inbound: 
       - TCP/80 -> 0.0.0.0/0
       - TCP/443 -> 0.0.0.0/0
-    - Outbound: ALL TCP -> 0.0.0.0/0 
+    - Outbound: 
+      - ALL TCP -> 0.0.0.0/0 
 
   - Jenkins Master SG (us-east-1): (Traffic and health checks for Jenkins Master)
     - Inbound: 
-      - TCP/80 -> 0.0.0.0/0
-      - TCP/443 -> 0.0.0.0/0
-    - Outbound: ALL TCP -> 0.0.0.0/0 
+      - ALB -> TCP/80
+      - TCP -> Jenkins Worker
+    - Outbound: 
+      - ALL TCP -> 0.0.0.0/0 
 
   - Jenkins Worker SG (us-east-1): (TCP/22 SSH traffice between Jenkins Master and Worker)
     - Inbound: 
-      - TCP/80 -> 0.0.0.0/0
-      - TCP/443 -> 0.0.0.0/0
-    - Outbound: ALL TCP -> 0.0.0.0/0 
+      - TCP -> Jenkins Master
+    - Outbound: 
+      - ALL TCP -> 0.0.0.0/0 
