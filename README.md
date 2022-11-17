@@ -26,3 +26,23 @@ Exercises:
       - TCP -> Jenkins Master
     - Outbound: 
       - ALL TCP -> 0.0.0.0/0 
+
+6. **LAB** - Creating a Multi-Region Network with VPC Peering Using SGs, IGW, and RTs
+
+7. Fetch AMI IDs using Data Source 
+
+8. Deploying Key Pairs to App Nodes
+
+9. Deploy Jenkins Master and Worker Instances
+
+10. Configure Terraform Provisioner for Config Management via Ansible
+
+11. Creating ALB and Routing Traffic to EC2 App Nodes
+
+12. **LAB** - Deploying Jenkins Master and Worker Nodes in AWS Behind an ALB Using Terraform and Ansible
+
+13. Putting It All Behind DNS: Setting up HTTPS and a Route 53 Record
+
+14. **LAB** - Creating Route 53 Records (Alias) to Route Traffic to an ALB Using Terraform
+
+15. Terraform Outputs and Terraform Graph
