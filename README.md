@@ -27,7 +27,7 @@ Exercises:
     - Outbound: 
       - ALL TCP -> 0.0.0.0/0 
 
-6. LAB - Creating a Multi-Region Network with VPC Peering Using SGs, IGW, and RTs
+6. **LAB** - Creating a Multi-Region Network with VPC Peering Using SGs, IGW, and RTs
 
 7. Fetch AMI IDs using Data Source 
 
@@ -39,10 +39,10 @@ Exercises:
 
 11. Creating ALB and Routing Traffic to EC2 App Nodes
 
-LAB - Deploying Jenkins Master and Worker Nodes in AWS Behind an ALB Using Terraform and Ansible
+12. **LAB** - Deploying Jenkins Master and Worker Nodes in AWS Behind an ALB Using Terraform and Ansible
 
-12. Putting It All Behind DNS: Setting up HTTPS and a Route 53 Record
+13. Putting It All Behind DNS: Setting up HTTPS and a Route 53 Record
 
-LAB - Creating Route 53 Records (Alias) to Route Traffic to an ALB Using Terraform
+14. **LAB** - Creating Route 53 Records (Alias) to Route Traffic to an ALB Using Terraform
 
-13. Terraform Outputs and Terraform Graph
+15. Terraform Outputs and Terraform Graph
