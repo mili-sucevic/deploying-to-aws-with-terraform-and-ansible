@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/93227818/202844262-951f4307-0a34-44c2-bd2d-a3398199bf17.png)
-
 AWS deployment with Terraform and Ansible
 
 Exercises:
@@ -42,6 +40,8 @@ Exercises:
 11. Creating ALB and Routing Traffic to EC2 App Nodes
 
 12. **LAB** - Deploying Jenkins Master and Worker Nodes in AWS Behind an ALB Using Terraform and Ansible
+
+![image](https://user-images.githubusercontent.com/93227818/202844262-951f4307-0a34-44c2-bd2d-a3398199bf17.png)
 
 13. Putting It All Behind DNS: Setting up HTTPS and a Route 53 Record
 
