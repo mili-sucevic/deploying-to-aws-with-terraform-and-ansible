@@ -47,4 +47,6 @@ Exercises:
 
 14. **LAB** - Creating Route 53 Records (Alias) to Route Traffic to an ALB Using Terraform
 
+![image](https://user-images.githubusercontent.com/93227818/202844419-c61eb6b0-fbb9-4019-bd3f-747c40865481.png)
+
 15. Terraform Outputs and Terraform Graph
