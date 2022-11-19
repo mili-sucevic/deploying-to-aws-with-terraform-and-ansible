@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/93227818/202844262-951f4307-0a34-44c2-bd2d-a3398199bf17.png)
+
 AWS deployment with Terraform and Ansible
 
 Exercises:
