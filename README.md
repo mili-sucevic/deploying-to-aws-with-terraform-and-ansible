@@ -41,8 +41,12 @@ Exercises:
 
 12. **LAB** - Deploying Jenkins Master and Worker Nodes in AWS Behind an ALB Using Terraform and Ansible
 
+![image](https://user-images.githubusercontent.com/93227818/202844262-951f4307-0a34-44c2-bd2d-a3398199bf17.png)
+
 13. Putting It All Behind DNS: Setting up HTTPS and a Route 53 Record
 
 14. **LAB** - Creating Route 53 Records (Alias) to Route Traffic to an ALB Using Terraform
+
+![image](https://user-images.githubusercontent.com/93227818/202844419-c61eb6b0-fbb9-4019-bd3f-747c40865481.png)
 
 15. Terraform Outputs and Terraform Graph
