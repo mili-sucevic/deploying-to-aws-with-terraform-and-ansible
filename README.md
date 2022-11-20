@@ -39,6 +39,8 @@ Exercises:
 
 11. Creating ALB and Routing Traffic to EC2 App Nodes
 
+![image](https://user-images.githubusercontent.com/93227818/202896381-4e4925a0-b71a-42a9-93f8-3da73c4e6311.png)
+
 12. **LAB** - Deploying Jenkins Master and Worker Nodes in AWS Behind an ALB Using Terraform and Ansible
 
 ![image](https://user-images.githubusercontent.com/93227818/202844262-951f4307-0a34-44c2-bd2d-a3398199bf17.png)
