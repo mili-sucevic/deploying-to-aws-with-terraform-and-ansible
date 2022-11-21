@@ -9,6 +9,6 @@ terraform {
     region  = "us-east-1"
     profile = "default"
     key     = "terraformstatefile"
-    bucket  = "terraform-state-bucket-15-11"
+    bucket  = "terraform-state-bucket-new-22"
   }
 }
