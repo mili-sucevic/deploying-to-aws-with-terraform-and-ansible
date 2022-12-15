@@ -1,4 +1,4 @@
-AWS deployment with Terraform and Ansible
+A CLOUD GURU COURSE: AWS deployment with Terraform and Ansible
 
 Exercises:
 
